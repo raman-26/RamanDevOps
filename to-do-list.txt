@@ -5,3 +5,4 @@ My to do list:
 - Lab session
 - break
 - sleep
++ deep sleep
